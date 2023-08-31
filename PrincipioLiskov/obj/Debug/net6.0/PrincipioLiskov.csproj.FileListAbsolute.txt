@@ -1,0 +1,17 @@
+C:\Users\Marcos\Desktop\Desarrollo Back End\ACME\PrincipioLiskov\PrincipioLiskov\bin\Debug\net6.0\PrincipioLiskov.exe
+C:\Users\Marcos\Desktop\Desarrollo Back End\ACME\PrincipioLiskov\PrincipioLiskov\bin\Debug\net6.0\PrincipioLiskov.deps.json
+C:\Users\Marcos\Desktop\Desarrollo Back End\ACME\PrincipioLiskov\PrincipioLiskov\bin\Debug\net6.0\PrincipioLiskov.runtimeconfig.json
+C:\Users\Marcos\Desktop\Desarrollo Back End\ACME\PrincipioLiskov\PrincipioLiskov\bin\Debug\net6.0\PrincipioLiskov.dll
+C:\Users\Marcos\Desktop\Desarrollo Back End\ACME\PrincipioLiskov\PrincipioLiskov\bin\Debug\net6.0\PrincipioLiskov.pdb
+C:\Users\Marcos\Desktop\Desarrollo Back End\ACME\PrincipioLiskov\PrincipioLiskov\bin\Debug\net6.0\Serilog.dll
+C:\Users\Marcos\Desktop\Desarrollo Back End\ACME\PrincipioLiskov\PrincipioLiskov\obj\Debug\net6.0\PrincipioLiskov.csproj.AssemblyReference.cache
+C:\Users\Marcos\Desktop\Desarrollo Back End\ACME\PrincipioLiskov\PrincipioLiskov\obj\Debug\net6.0\PrincipioLiskov.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marcos\Desktop\Desarrollo Back End\ACME\PrincipioLiskov\PrincipioLiskov\obj\Debug\net6.0\PrincipioLiskov.AssemblyInfoInputs.cache
+C:\Users\Marcos\Desktop\Desarrollo Back End\ACME\PrincipioLiskov\PrincipioLiskov\obj\Debug\net6.0\PrincipioLiskov.AssemblyInfo.cs
+C:\Users\Marcos\Desktop\Desarrollo Back End\ACME\PrincipioLiskov\PrincipioLiskov\obj\Debug\net6.0\PrincipioLiskov.csproj.CoreCompileInputs.cache
+C:\Users\Marcos\Desktop\Desarrollo Back End\ACME\PrincipioLiskov\PrincipioLiskov\obj\Debug\net6.0\PrincipioLiskov.csproj.CopyComplete
+C:\Users\Marcos\Desktop\Desarrollo Back End\ACME\PrincipioLiskov\PrincipioLiskov\obj\Debug\net6.0\PrincipioLiskov.dll
+C:\Users\Marcos\Desktop\Desarrollo Back End\ACME\PrincipioLiskov\PrincipioLiskov\obj\Debug\net6.0\refint\PrincipioLiskov.dll
+C:\Users\Marcos\Desktop\Desarrollo Back End\ACME\PrincipioLiskov\PrincipioLiskov\obj\Debug\net6.0\PrincipioLiskov.pdb
+C:\Users\Marcos\Desktop\Desarrollo Back End\ACME\PrincipioLiskov\PrincipioLiskov\obj\Debug\net6.0\PrincipioLiskov.genruntimeconfig.cache
+C:\Users\Marcos\Desktop\Desarrollo Back End\ACME\PrincipioLiskov\PrincipioLiskov\obj\Debug\net6.0\ref\PrincipioLiskov.dll

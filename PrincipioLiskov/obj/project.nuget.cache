@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "lcQjlqLveZUX+uTJnf1wdzy8jiqWGUXdiJfQH74vff8dua3NB9X92tQWZD7/8F+PGg71ZU0yV7IxAMGbEuhMYg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Marcos\\Desktop\\Desarrollo Back End\\ACME\\PrincipioLiskov\\PrincipioLiskov\\PrincipioLiskov.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Marcos\\.nuget\\packages\\serilog\\2.12.0\\serilog.2.12.0.nupkg.sha512"
+  ],
+  "logs": []
+}
